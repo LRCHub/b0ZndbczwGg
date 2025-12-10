@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "マ・シェリ",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2025-12-10T12:47:49.052403Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マ・シェリ",
+      "artist": "Shiina Ringo (椎名 林檎)",
+      "has_synced": true,
+      "path": "select/01_マ・シェリ_Shiina_Ringo_(椎名_林檎).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マ・シェリ",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/02_マ・シェリ_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マ・シェリ",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/03_マ・シェリ_椎名林檎.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マ・シェリ",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_マ・シェリ_椎名_林檎.txt"
+    }
+  ]
+}
